@@ -1,1 +1,1 @@
-# Snowdeed.Kivo.Projects
+# Snowdeed.Kivo.Project
