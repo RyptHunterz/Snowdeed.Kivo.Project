@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Snowdeed.Kivo.DataModels\Snowdeed.Kivo.Data.csproj" />
+    <ProjectReference Include="..\Snowdeed.Kivo.Dto\Snowdeed.Kivo.Dto.csproj" />
+  </ItemGroup>
+</Project>
